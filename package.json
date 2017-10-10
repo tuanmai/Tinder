@@ -6,6 +6,9 @@
     "start": "node node_modules/react-native/local-cli/cli.js start"
   },
   "dependencies": {
+    "mobile-center": "^0.10.0",
+    "mobile-center-analytics": "^0.10.0",
+    "mobile-center-crashes": "^0.10.0",
     "react": "15.2.1",
     "react-native": "^0.31.0",
     "react-native-swipe-cards": "0.0.8",
